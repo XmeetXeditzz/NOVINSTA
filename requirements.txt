@@ -2,3 +2,4 @@ Flask==2.3.3
 instagrapi==1.17.1
 requests
 gunicorn
+Pillow>=8.1.1
